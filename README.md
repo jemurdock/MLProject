@@ -1,1 +1,1 @@
-Java code for training on features of various court cases. There are several learning models for classification and several features sets. The model aims to predict whether a defendant was convicted or not based on features of their trial.
+Java code for training on features of various court cases from the Old Bailey Decisions data set. There are several learning models for classification and several feature sets. The model aims to predict whether a defendant was convicted or not based on features of their trial.
